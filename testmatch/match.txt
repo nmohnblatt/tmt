@@ -1,0 +1,454 @@
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-US" lang="en-US"><head>
+    <meta http-equiv="content-type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=11">
+    <title>ZVE 2-3 THI | Alexander Zverev - Dominic Thiem | Point by Point</title>
+
+    <meta name="robots" content="NOODP,index,follow">
+<meta property="og:title" content="Alexander Zverev - Dominic Thiem 2:3">
+<meta property="og:image" content="https://www.scoreboard.com/res/image/data/tO5cePjl-UZcXApcA-bofG69ci.png">
+<meta property="og:description" content="ATP - SINGLES: US Open (USA), hard - Final">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no, minimal-ui">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="viewport" content="width=device-width, initial-scale=1.0"><link rel="shortcut icon" href="/res/_fs/images/10_favicons/_scoreboard/favicon.ico?v=2">
+
+    <link rel="apple-touch-icon" sizes="180x180" href="/res/_fs/images/10_favicons/_scoreboard/touch-icon-180x180.png?v=2">
+    <link rel="icon" type="image/png" sizes="32x32" href="/res/_fs/images/10_favicons/_scoreboard/favicon-32x32.png?v=2">
+    <link rel="icon" type="image/png" sizes="16x16" href="/res/_fs/images/10_favicons/_scoreboard/favicon-16x16.png?v=2">
+    <link rel="manifest" href="/manifest/2/?v=5">
+    <meta name="theme-color" content="#0b1623">	<script type="text/javascript" async="" src="https://www.gstatic.com/recaptcha/releases/yXSLJBpiFoTYkexaPhFknpU7/recaptcha__en.js" crossorigin="anonymous" integrity="sha384-fEtnLkXMpwhEXyV802C09EtQCfEekHEGh4Dzy/7Sn0xtxDbO9+NbG9N1yHY3nOiY"></script><script async="" defer="" src="https://www.google.com/recaptcha/api.js?hl=en-US&amp;onload=captchaOnLoad&amp;render=explicit"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PWJ3NQ"></script><script defer="" src="https://cdn.cookielaw.org/scripttemplates/otSDKStub.js" type="text/javascript" data-document-language="true" charset="UTF-8" data-domain-script="44f5ec36-87d8-4f78-8786-b6136c144273"></script>
+	<script type="text/javascript" src="/x/js/jquery-1.11.0.min.js"></script>
+	<script type="text/javascript" src="/x/js/browsercompatibility_3.js"></script>
+	<script type="text/javascript" src="/res/_fs/build/runtime.26f3c49.js"></script>
+	<script type="text/javascript" src="/res/_fs/build/loader.ab66fdc.js"></script>
+	<script type="text/javascript" defer="defer" src="/x/js/framework39.js"></script>
+	<script type="text/javascript" defer="defer" src="/x/js/lscompressor-min.js"></script>
+	<script type="text/javascript" defer="defer" src="/x/js/core_500_1864000000.js"></script>
+	<script type="text/javascript">var standingsWebpack = { js: "/res/_fs/build/standings.4476119.js", css: "/res/_fs/build/standings.4476119.css" }</script>	<script type="text/javascript" defer="defer" src="/res/_fs/build/vendors.9c358a9.js"></script>
+	<script type="text/javascript" defer="defer" src="/res/_fs/build/modules.7680193.js"></script>
+	<script type="text/javascript" defer="defer" src="/x/js/detail_500_1864000000.js"></script>
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/fontFlash.06ffc28.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/variables.d34dfdb.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/detailcss.0262aff.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/standings_separate.ad17340.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/user.6b0ab00.css" media="all">
+<link type="text/css" rel="stylesheet" href="/x/css/table_500_1544000000.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/banner.5c278fc.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/liveTable.74308fc.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/detailForever.ea118e3.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/box_over_content.19d6c01.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/cookie.67ab3d0.css" media="all">
+<link type="text/css" rel="stylesheet" href="/res/_fs/build/commercial.4889de3.css" media="all">
+        <script type="text/javascript">
+            try {
+                refresh_alert_check_on();
+            } catch (e) {
+            }
+        </script>
+            <script type="text/javascript">
+        document.domain = 'scoreboard.com';
+        var counter_duration_time = 60;
+
+        var participantEncodedIds = ['dGbUhw9m','dtwmvonR'];
+        var tournamentStageEncodedId = 'hIybRiWS';
+        var tournamentEncodedId = 'bPa1ZsRC';
+        var tournamentNameWithStage = 'US Open, hard';
+        var disabledVideoHighlightGeoIps = [];
+        var detailPage = null;
+
+        var g2utime = 1600042759;
+        var game_utime = 1600028400;
+        var game_utime_end = 0;
+        var event_stage_type_id = 3;
+        var race_or_main_stage_status_id = null;
+        var event_stage_id = 3;
+        var game_update_time = 1601131845;
+                var app_gmt_offset = 14400;
+        var default_tz = -4;
+        var tudate = 1601078400;
+                var mid_s = 2;
+        var sport_id = 2;
+        var page_hlscore_title = "SET";
+        //var odds_format_url = "us";
+        var mpe_alias = 'p1:100, p2:100, p3:100, p4:100, p5:100, p6:100, p7:100, p8:100, p9:100, p10:100';
+        var mpe_delivery;
+        cjs.Api.title = document.title;
+        cjs.Api.spoilerFreeTitle = "ZVE - THI | Alexander Zverev - Dominic Thiem";
+        cjs.Api.loader.get('cjs').call(function(_cjs) {
+            _cjs.dic.get("util_page").setDetailParticipantPage(false);
+            mpe_delivery = 'a';
+        });
+        var mpr = 19;
+        var refresh_serial = 0;
+        var event_stage_trans = new Array();
+        var home_3char = "ZVE";
+        var away_3char = "THI";
+        var title_at_char = "";
+        var isSwapped = "";
+        var playingOnSets = "";
+        var hasLiveCentreEnabled = 1;
+        var eventParticipantEncodedId = "ltB92yKu";
+        var eventId = "O8bBVnn7";
+        var stageId = "";
+        var hasScratches = false;
+        var fs_detail;
+        var sentences = [];
+        var sentences_parts = [];
+        var dataLayer = dataLayer || [];
+function OptanonWrapper() {
+    dataLayer.push({event:"OneTrustGroupsUpdated"});
+    try {
+        cjs.Api.loader.get('cjs').call(function(_cjs) {
+            if (typeof banners == 'object') {
+                banners.prepareBackup();
+            }
+        });
+    } catch(e) { }
+};
+        cjs.Api.loader.get('detail').call(function (_cjs) {
+            _cjs.bookmakersData = [];
+            _cjs.bookmakerLogos = {"urls":[]};
+            _cjs.availableBookmakers = [];
+            _cjs.bookmakerGeoGroups = [];
+            _cjs.allowedTvs = [321,322,323,324,325,326,327,328,329,330,331,332,333,334,335,336,337,338,339,115,500,502,653,708,780,805];
+            var bookmakersDataWrapper = {
+                'bookmakersData': _cjs.bookmakersData,
+                'availableBookmakers': _cjs.availableBookmakers,
+                'geoGroups': _cjs.bookmakerGeoGroups,
+                'logos': _cjs.bookmakerLogos
+            };
+            _cjs.Api.loader.get('bookmakersData').fulfill(function (callback) {
+                callback(bookmakersDataWrapper);
+            });
+            fs_detail = _cjs.dic.getNewInstance('detail_fsdetail');
+            _cjs.oddsData = _cjs.oddsData || {
+                bookmakersWithLiveOffer: '',
+                liveOddsData: '',
+                prematchOddsData: ''
+            };
+            fs_detail.DA = 3;fs_detail.DZ = 3;fs_detail.DB = 3;fs_detail.DD = 1600042759;fs_detail.AW = 1;fs_detail.DC = 1600028400;fs_detail.DS = 0;fs_detail.DE = 2;fs_detail.DF = 3;fs_detail.DG = 2;fs_detail.DH = 3;fs_detail.DI = -1;fs_detail.DK = 1600042765;fs_detail.DL = 5;fs_detail.DM = "";fs_detail.DT = "";fs_detail.DX = "ST,MH,MC,HH,DR,PR,NF";fs_detail.DEI = "https://www.scoreboard.com/res/image/data/tO5cePjl-UZcXApcA-bofG69ci.png";fs_detail.HR = "1600032838|;1600032965|;1600033017|;1600056133|;1600050665|";fs_detail.DR = 0;fs_detail.DV = 2;fs_detail.EI = "";fs_detail.DJ = "A";fs_detail.AZ = 2;fs_detail.SC = 0;fs_detail.SB = 5;fs_detail.setHash("CA", "");fs_detail.GB = '[]';fs_detail.IY = 'ZVE';fs_detail.IZ = 'THI';event_stage_trans[1] = "&nbsp;"; event_stage_trans[45] = "To finish"; event_stage_trans[42] = "Awaiting updates"; event_stage_trans[2] = "Live"; event_stage_trans[17] = "Set 1"; event_stage_trans[18] = "Set 2"; event_stage_trans[19] = "Set 3"; event_stage_trans[20] = "Set 4"; event_stage_trans[21] = "Set 5"; event_stage_trans[47] = "Set 1 - Tiebreak"; event_stage_trans[48] = "Set 2 - Tiebreak"; event_stage_trans[49] = "Set 3 - Tiebreak"; event_stage_trans[50] = "Set 4 - Tiebreak"; event_stage_trans[51] = "Set 5 - Tiebreak"; event_stage_trans[46] = "Break Time"; event_stage_trans[3] = "Final"; event_stage_trans[8] = "Final / retired"; event_stage_trans[9] = "Walkover"; event_stage_trans[43] = "Delayed"; event_stage_trans[36] = "Interrupted"; event_stage_trans[4] = "Postponed"; event_stage_trans[5] = "Cancelled"; event_stage_trans[37] = "Abandoned"; event_stage_trans[54] = "Awarded"; event_stage_trans[57] = "After day 1"; event_stage_trans[58] = "After day 2"; event_stage_trans[335] = "Medical timeout"; 
+            $(window).bind('load', detail_load);
+            $(window).bind('load', function () {
+                try {
+                                        window.e_t = _cjs.dic.get('utilEnviroment').getEventTrackingObject();
+                    banners.setDisplayedCallback(function () {
+                        e_t.bindAdsCallbackClick()
+                    });
+                                        _cjs.Api.loader.get("geoIpResolver").call(function(){
+                        _cjs.Api.loader.get("boxContentManager").call(function(boxContentManager) {
+                            boxContentManager.show(_cjs.geoIP, ["detail"]);
+                        });
+                    });
+                    document.lsadvert_display();
+                } catch (e) {
+                }
+            });
+            $(window).bind('hashchange', detail_hashchange);
+            $(document).ready(function () {
+                                _cjs.fromGlobalScope.detail_init('tennis', 'O8bBVnn7', game_update_time);
+                set_detail_bet_icon_states("tab-prematch-odds");
+                detail_tab();
+                detail_delegate_actions(2, 'tennis', 'O8bBVnn7');
+
+                                _cjs.fromGlobalScope.initFeedRequest();
+                _cjs.fromGlobalScope.myTeamsInit(2);
+                if (typeof _cjs.myTeams != 'undefined') {
+                    _cjs.myTeams.printToggleIcons();
+                    _cjs.myTeams.delegateTooltips();
+                }
+                
+                                var fsDetailObj = _cjs.dic.getNewInstance('detail_fsdetail');
+                fsDetailObj.setOverrideData(fs_detail);
+                fsDetailObj.repaintScore();
+                fsDetailObj.repaintEventStage();
+                
+                _cjs.Api.loader.get('detail/react-audio').call();
+            });
+
+                    });
+    </script>
+
+    <script type="text/javascript">
+// <![CDATA[
+var stats2Config = {"tournament":"bPa1ZsRC","tournamentStage":"hIybRiWS","eventId":"","statsTabsConfig":{"16":{"name":"Live Standings","url":"live","sortKey":1},"1":{"name":"Standings","url":"table","sortKey":2,"items":{"1":{"name":"Overall","url":"overall","sortKey":1},"2":{"name":"Home","url":"home","sortKey":2},"3":{"name":"Away","url":"away","sortKey":3}}},"5":{"name":"Form","url":"form","sortKey":3,"items":{"5":{"name":"Overall","url":"overall","has_sub_items":true,"sortKey":1},"8":{"name":"Home","url":"home","has_sub_items":true,"sortKey":2},"9":{"name":"Away","url":"away","has_sub_items":true,"sortKey":3}}},"6":{"name":"Totals","url":"over_under","sortKey":4,"items":{"6":{"name":"Overall","url":"overall","has_sub_items":true,"sortKey":1},"17":{"name":"Home","url":"home","has_sub_items":true,"sortKey":2},"18":{"name":"Away","url":"away","has_sub_items":true,"sortKey":3}}},"7":{"name":"Streaks","url":"streaks","sortKey":5},"-1":{"name":"Bracket","url":"draw","sortKey":6},"13":{"url":"ht_ft","name":"HT\/FT","title":"Half Time\/Full Time","sortKey":7,"items":{"13":{"name":"Overall","url":"overall","sortKey":1},"14":{"name":"Home","url":"home","sortKey":2},"15":{"name":"Away","url":"away","sortKey":3}}},"10":{"name":"Top Scorers","url":"top_scorers","sortKey":8}},"statsOverUnderTypes":[]};
+
+// ]]>
+</script>
+    <iframe src="https://d.scoreboard.com/x/feed/proxy-local"></iframe><iframe src="https://d.scoreboard.com/x/feed/proxy-fetch"></iframe><script charset="utf-8" src="/res/_fs/build/UpcomingDrawStartTimeFormatter.a5dd006.js"></script><script src="https://geolocation.onetrust.com/cookieconsentpub/v1/geo/location" async="" type="text/javascript"></script><script src="https://cdn.cookielaw.org/scripttemplates/6.5.0/otBannerSdk.js" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.cookielaw.org/scripttemplates/6.5.0/otTCF.js"></script></head>
+
+        
+
+<body id="top" class="tennis detail-experimental detailbody responsive flat pid_500 _scoreboard"><div id="lsid"><div id="lsid-content"><div class="buttons"><div id="signInFB" class="lsid-rounded-box blue"><span class="icon FB"></span>Connect with Facebook</div><div id="signAndReg" class="signAndReg"></div><div id="signIn" class="lsid-rounded-box black" onclick="e_t.track_click('web-click', 'login');return false;">Login</div><div id="registration" class="lsid-rounded-box" onclick="e_t.track_click('web-click', 'registration');return false;">REGISTRATION</div></div></div></div>
+    
+<script type="text/javascript">
+	cjs.Api.darkModeLocal.beforeLoad(function(isDefaultTheme){
+		if (!isDefaultTheme) {
+			document.body.classList.add("theme--dark");
+		}
+	}, window.location.hash);
+</script>
+
+<div id="detail" class="sport-tennis">
+    <div id="detcon">
+<div id="season_url" style="display: none">2020</div><div class="brand">
+	<a class="brand__logo logo--mobile scoreboard-com-white" href="/" target="_blank">
+	</a>
+</div>
+<div class="description">
+	<div class="description__match">
+		<span class="description__flag flag fl_3473162">
+		</span>
+		<span class="description__country">ATP - SINGLES: <a href="#" onclick="window.open('/tennis/atp-singles/us-open/'); return false;">US Open (USA), hard - Final</a></span>
+	</div>
+	<div id="utime" class="description__time">09:20 PM, September 13, 2020</div>
+</div>
+
+<script>
+	cjs.Api.loader.get('detail/backButton').call(function (backButton) {
+		backButton.setLocationPathname(window.location.pathname).setReferrer(document.referrer).render();
+	});
+</script>
+<div id="preload-all" class="hidden"><div class="preload"><span>Loading...</span></div></div><div id="content-all" class=""><div id="fscon-service-status"></div>
+			<div id="flashscore" class="team spoiler-content">
+				<div class="team-primary-content">
+					<div class="home-box logo-enable">
+						
+			<div class="side-images-wrapper tlogo-home">
+				<div class="side-images-row">
+					
+					
+					<a href="#" class="participant-imglink" onclick="window.open('/player/zverev-alexander/dGbUhw9m'); return false;"><img width="50" height="50" src="/res/image/data/tO5cePjl-UHUcqead.png" alt="Zverev A." title="Show profile"></a><div id="tomyteams_2_dGbUhw9m" class="tomyteams"><span class="toggleMyTeam 2_dGbUhw9m" title="Add to My Teams!" onclick="tt.hide(this); cjs.myTeams.toggle('2_dGbUhw9m'); event.stopPropagation();"></span></div>
+				</div>
+			</div>
+						<div class="team-text tname-home">
+							<div class="tname">
+								<div class="tname__text">
+								    <span style="display: none" class="dw-icon ico" title="Advancing to next round">&nbsp;</span>
+									<a href="#" class="participant-imglink" onclick="window.open('/player/zverev-alexander/dGbUhw9m'); return false;">Zverev A.</a>
+								</div>
+							</div>
+						</div>
+						<div class="participant-detail-rank-wrapper"><span class="participant-detail-rank"><a title="Show full rankings" href="#" onclick="window.open('/tennis/rankings/atp'); return false;">ATP</a>: 7.</span></div>
+					</div>
+					<div class="match-info">
+						<div class="current-result" id="event_detail_current_result">
+							<span class="scoreboard">2</span><span><span class="scoreboard-divider">-</span><span class="scoreboard">3</span></span>
+						</div>
+						<div class="info-status mstat">Final</div>
+						
+					</div>
+					<div class="away-box logo-enable">
+						
+			<div class="side-images-wrapper tlogo-away">
+				<div class="side-images-row">
+					
+					
+					<div id="tomyteams_2_dtwmvonR" class="tomyteams"><span class="toggleMyTeam 2_dtwmvonR" title="Add to My Teams!" onclick="tt.hide(this); cjs.myTeams.toggle('2_dtwmvonR'); event.stopPropagation();"></span></div><a href="#" class="participant-imglink" onclick="window.open('/player/thiem-dominic/dtwmvonR'); return false;"><img width="50" height="50" src="/res/image/data/p0aULsdM-bofG69ci.png" alt="Thiem D." title="Show profile"></a>
+				</div>
+			</div>
+						<div class="team-text tname-away">
+							<div class="tname">
+								<div class="tname__text">
+									<a href="#" class="participant-imglink" onclick="window.open('/player/thiem-dominic/dtwmvonR'); return false;">Thiem D.</a>
+								    <span style="display: none" class="dw-icon ico" title="Advancing to next round">&nbsp;</span>
+								</div>
+							</div>
+						</div>
+						<div class="participant-detail-rank-wrapper"><span class="participant-detail-rank"><a title="Show full rankings" href="#" onclick="window.open('/tennis/rankings/atp'); return false;">ATP</a>: 3.</span></div>
+					</div>
+				</div>
+				<div class="team-secondary-content">
+					
+				</div>
+			</div>
+			<div id="detail-react" style="display: block;"></div><div id="detail-submenu-bookmark-container" style="display: none;"></div><div id="detail-bookmarks"><div id="detail-mainmenu-bookmark" class="ifmenu-wrapper" style="position: relative;"><ul class="ifmenu"><li id="li-match-summary" class="li0 selected"><span><a href="#" id="a-match-summary" onclick="detail_tab('summary');  e_t.track_click('detail-bookmark-click', 'match-summary'); return false">Live Center</a></span></li><li id="li-match-head-2-head" class="li2"><span><a href="#" id="a-match-head-2-head" onclick="detail_tab('head-2-head');  e_t.track_click('detail-bookmark-click', 'h2h'); return false">H2H</a></span></li><li id="li-match-draw" class="li4"><span><a href="#" id="a-match-draw" onclick="detail_tab('draw');  e_t.track_click('detail-bookmark-click', 'stats-detail'); return false">Bracket</a></span></li><li id="li-match-photoreport" class="li7"><span><a href="#" id="a-match-photoreport" onclick="detail_tab('photoreport');  e_t.track_click('detail-bookmark-click', 'photoreport-detail'); return false">Photos</a></span></li><li id="li-match-newsfeed" class="li8"><span><a href="#" id="a-match-newsfeed" onclick="detail_tab('newsfeed');  e_t.track_click('detail-bookmark-click', 'newsfeed'); return false">News</a></span></li></ul></div><div class="color-spacer"></div><div id="detail-submenu-bookmark" class="detail-submenu-bookmark" style="display: block;"><div class="spacer-block">&nbsp;</div><div class="ifmenu-wrapper"><ul class="ifmenu"><li id="li-match-timeline" class="li0"><span><a href="#" id="a-match-timeline" onclick="detail_tab('summary');  e_t.track_click('detail-bookmark-click', 'match-summary'); return false">Game Summary</a></span></li><li id="li-match-statistics" class="li1"><span><a href="#" id="a-match-statistics" onclick="detail_tab('statistics');  e_t.track_click('detail-bookmark-click', 'match-statistics'); return false">Statistics</a></span></li><li id="li-match-history" class="li5 selected"><span><a href="#" id="a-match-history" onclick="detail_tab('match-history');  e_t.track_click('detail-bookmark-click', 'match-history'); return false">Point by Point</a></span></li></ul></div></div></div><div id="tab-match-summary" style="display: none;"><div id="summary-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div><div id="summary-content" elementtiming="SpeedCurve First Result Paint"><div id="missing-players-content"></div></div>
+		<div id="tab-match-match-history-preview" style="display: none;">
+		<div id="match-history-preview-preload" class="preload"><span>Loading...</span></div>
+		<div id="match-history-preview-content"></div>
+		</div><div class="spacer-block">&nbsp;</div></div>			<div id="tab-match-odds-comparison" style="display: none;">
+			<div id="odds-comparison-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="odds-comparison-content"></div>
+			
+			</div>			<div id="tab-match-tv" style="display: none;">
+			<div id="tv-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="tv-content"></div>
+			
+			</div>			<div id="tab-match-highlights" style="display: none;">
+			<div id="highlights-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="highlights-content"></div>
+			
+			</div>			<div id="tab-match-photoreport" style="display: none;">
+			<div id="photoreport-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="photoreport-content"></div>
+			
+			</div>			<div id="tab-match-head-2-head" style="display: none;">
+			<div id="head-2-head-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="head-2-head-content"></div>
+			
+			</div>			<div id="tab-match-lineups" style="display: none;">
+			<div id="lineups-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="lineups-content"></div>
+			
+			</div>			<div id="tab-match-statistics" style="display: none;">
+			<div id="statistics-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="statistics-content"></div>
+			
+			</div>			<div id="tab-match-player-statistics" style="display: none;">
+			<div id="player-statistics-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="player-statistics-content"></div>
+			
+			</div>			<div id="tab-match-fall-of-wickets" style="display: none;">
+			<div id="fall-of-wickets-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="fall-of-wickets-content"></div>
+			
+			</div>			<div id="tab-match-overs" style="display: none;">
+			<div id="overs-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="overs-content"></div>
+			
+			</div>			<div id="tab-match-history" style="display: block;">
+			<div id="match-history-preload" class="preload-panel no-height" style="display: none;"><div class="preload"><span>Loading...</span></div></div>
+			<div id="match-history-content"><div class="color-px-spacer submenu">&nbsp;</div><div class="lines-bookmark"><ul class="ifmenu"><li class="divider"></li><li id="mhistory-1-history" class="li0 selected"><span><a onclick="detail_tab(['match-history', '1-history']);">Set 1</a></span></li><li class="divider"></li><li id="mhistory-2-history" class="li1"><span><a onclick="detail_tab(['match-history', '2-history']);">Set 2</a></span></li><li class="divider"></li><li id="mhistory-3-history" class="li2"><span><a onclick="detail_tab(['match-history', '3-history']);">Set 3</a></span></li><li class="divider"></li><li id="mhistory-4-history" class="li3"><span><a onclick="detail_tab(['match-history', '4-history']);">Set 4</a></span></li><li class="divider"></li><li id="mhistory-5-history" class="li4"><span><a onclick="detail_tab(['match-history', '5-history']);">Set 5</a></span></li><li class="divider"></li></ul></div><div class="color-spacer lineup-spacer"></div><div id="tab-mhistory-1-history" style="display: block;"><table id="parts" class="parts-first"><tbody><tr><td colspan="10" class="h-part">Point by point - Set 1</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">0</span> - <span class="score-highlight">1</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 0:30, 15:30, 15:40</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">1</span> - <span class="">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 30:15, 40:15</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">2</span> - <span class="">1</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="odd fifteen"><td colspan="5">15:0, 15:15, 30:15, 40:15<span class="ball-type-text breakball" title="Break point">BP</span>, 40:30<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">3</span> - <span class="">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 40:0</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">3</span> - <span class="score-highlight">2</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">15:0, 30:0, 30:15, 30:30, 30:40, 40:40, 40:A</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">4</span> - <span class="">2</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 40:0</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">5</span> - <span class="">2</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="odd fifteen"><td colspan="5">0:15, 15:15, 30:15, 30:30, 30:40, 40:40, A:40<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">6</span> - <span class="">2</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 30:15, 30:30, 40:30<span class="ball-type-text setball" title="Set point">SP</span></td></tr></tbody></table><div class="spacer-block"></div></div><div id="tab-mhistory-2-history" style="display: none;"><table id="parts" class="parts-first"><tbody><tr><td colspan="10" class="h-part">Point by point - Set 2</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">0</span> - <span class="score-highlight">1</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">15:0, 15:15, 15:30, 30:30, 40:30<span class="ball-type-text breakball" title="Break point">BP</span>, 40:40, 40:A, 40:40, 40:A</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">1</span> - <span class="">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 40:0</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">2</span> - <span class="">1</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="odd fifteen"><td colspan="5">15:0, 30:0, 30:15, 30:30, 40:30<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">3</span> - <span class="">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">0:15, 0:30, 15:30, 30:30, 40:30, 40:40, A:40, 40:40, A:40</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">4</span> - <span class="">1</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="odd fifteen"><td colspan="5">15:0, 15:15, 30:15, 40:15<span class="ball-type-text breakball" title="Break point">BP</span>, 40:30<span class="ball-type-text breakball" title="Break point">BP</span>, 40:40, A:40<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">5</span> - <span class="">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 30:15, 40:15</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">5</span> - <span class="score-highlight">2</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">15:0, 30:0, 30:15, 30:30, 40:30<span class="ball-type-text breakball" title="Break point">BP</span><span class="ball-type-text setball" title="Set point">SP</span>, 40:40, A:40<span class="ball-type-text breakball" title="Break point">BP</span><span class="ball-type-text setball" title="Set point">SP</span>, 40:40, A:40<span class="ball-type-text breakball" title="Break point">BP</span><span class="ball-type-text setball" title="Set point">SP</span>, 40:40, 40:A</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">5</span> - <span class="score-highlight">3</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">0:15, 15:15, 15:30, 30:30, 40:30<span class="ball-type-text setball" title="Set point">SP</span>, 40:40, 40:A<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">5</span> - <span class="score-highlight">4</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 0:30, 0:40</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">6</span> - <span class="">4</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">0:15, 15:15, 30:15, 30:30, 40:30<span class="ball-type-text setball" title="Set point">SP</span></td></tr></tbody></table><div class="spacer-block"></div></div><div id="tab-mhistory-3-history" style="display: none;"><table id="parts" class="parts-first"><tbody><tr><td colspan="10" class="h-part">Point by point - Set 3</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">0</span> - <span class="score-highlight">1</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 15:15, 15:30, 30:30, 30:40</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">1</span> - <span class="">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 40:0</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">2</span> - <span class="">1</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="odd fifteen"><td colspan="5">15:0, 30:0, 30:15, 40:15<span class="ball-type-text breakball" title="Break point">BP</span>, 40:30<span class="ball-type-text breakball" title="Break point">BP</span>, 40:40, A:40<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">2</span> - <span class="score-highlight">2</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 30:15, 30:30, 30:40<span class="ball-type-text breakball" title="Break point">BP</span>, 40:40, 40:A<span class="ball-type-text breakball" title="Break point">BP</span>, 40:40, 40:A<span class="ball-type-text breakball" title="Break point">BP</span>, 40:40, 40:A<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">2</span> - <span class="score-highlight">3</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 0:30, 0:40</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">3</span> - <span class="">3</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 30:15, 40:15</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">3</span> - <span class="score-highlight">4</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">15:0, 30:0, 30:15, 30:30, 30:40, 40:40, 40:A</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">4</span> - <span class="">4</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 30:15, 40:15, 40:30, 40:40, A:40</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">4</span> - <span class="score-highlight">5</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 15:15, 15:30, 30:30, 30:40, 40:40, 40:A</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">4</span> - <span class="score-highlight">6</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 15:30, 15:40<span class="ball-type-text breakball" title="Break point">BP</span><span class="ball-type-text setball" title="Set point">SP</span></td></tr></tbody></table><div class="spacer-block"></div></div><div id="tab-mhistory-4-history" style="display: none;"><table id="parts" class="parts-first"><tbody><tr><td colspan="10" class="h-part">Point by point - Set 4</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">0</span> - <span class="score-highlight">1</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 0:30, 0:40</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">1</span> - <span class="">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 30:15, 40:15, 40:30</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">1</span> - <span class="score-highlight">2</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">15:0, 15:15, 15:30, 15:40</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">2</span> - <span class="">2</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 40:0, 40:15</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">2</span> - <span class="score-highlight">3</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 0:30, 0:40</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">3</span> - <span class="">3</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 15:30, 15:40<span class="ball-type-text breakball" title="Break point">BP</span>, 30:40<span class="ball-type-text breakball" title="Break point">BP</span>, 40:40, A:40</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">3</span> - <span class="score-highlight">4</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">15:0, 15:15, 15:30, 15:40</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">3</span> - <span class="score-highlight">5</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 30:15, 30:30, 40:30, 40:40, A:40, 40:40, 40:A<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">3</span> - <span class="score-highlight">6</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 0:30, 0:40<span class="ball-type-text setball" title="Set point">SP</span></td></tr></tbody></table><div class="spacer-block"></div></div><div id="tab-mhistory-5-history" style="display: none;"><table id="parts" class="parts-first"><tbody><tr><td colspan="10" class="h-part">Point by point - Set 5</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">0</span> - <span class="score-highlight">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 15:15, 15:30, 15:40<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">1</span> - <span class="">1</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="even fifteen"><td colspan="5">15:0, 15:15, 15:30, 30:30, 40:30<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">2</span> - <span class="">1</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 15:15, 15:30, 30:30, 40:30</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">2</span> - <span class="score-highlight">2</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">0:15, 0:30, 0:40, 15:40</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">3</span> - <span class="">2</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">15:0, 15:15, 30:15, 40:15, 40:30</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">3</span> - <span class="score-highlight">3</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 30:15, 30:30, 30:40</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">4</span> - <span class="">3</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">15:0, 30:0, 30:15, 40:15, 40:30</td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">5</span> - <span class="">3</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 30:15, 30:30, 40:30<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">5</span> - <span class="score-highlight">4</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 0:30, 15:30, 15:40<span class="ball-type-text breakball" title="Break point">BP</span>, 30:40<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><span class="">5</span> - <span class="score-highlight">5</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="even fifteen"><td colspan="5">0:15, 15:15, 30:15, 30:30, 30:40</td></tr><tr class="odd fifteens_available"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">5</span> - <span class="score-highlight">6</span></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr class="odd fifteen"><td colspan="5">0:15, 15:15, 15:30, 30:30, 30:40<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="even fifteens_available"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">6</span> - <span class="">6</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="even fifteen"><td colspan="5">15:0, 30:0, 30:15, 40:15<span class="ball-type-text breakball" title="Break point">BP</span>, 40:30<span class="ball-type-text breakball" title="Break point">BP</span></td></tr><tr class="odd"><td class="match-history-vertical fr"><div class="lostserve-placeholder">&nbsp;</div></td><td class="server"></td><td class="match-history-score"><sup>6</sup><span class="">6</span> - <span class="score-highlight">7</span><sup>8</sup></td><td class="server"></td><td class="match-history-vertical fl"><div class="lostserve-placeholder">&nbsp;</div></td></tr><tr><td colspan="10" class="h-part">Tiebreak - Set 5</td></tr><tr class="even"><td class="match-history-vertical fr">&nbsp;</td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">1</span> - <span class="">0</span></td><td class="server"></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="odd"><td class="match-history-vertical fr">&nbsp;</td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">2</span> - <span class="">0</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve">LOST SERVE</td></tr><tr class="even"><td class="match-history-vertical fr">&nbsp;</td><td class="server"></td><td class="match-history-score"><span class="">2</span> - <span class="score-highlight">1</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="odd"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">2</span> - <span class="score-highlight">2</span></td><td class="server"></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="even"><td class="match-history-vertical fr">&nbsp;</td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">3</span> - <span class="">2</span></td><td class="server"></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="odd"><td class="match-history-vertical fr">&nbsp;</td><td class="server"></td><td class="match-history-score"><span class="">3</span> - <span class="score-highlight">3</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="even"><td class="match-history-vertical fr">&nbsp;</td><td class="server"></td><td class="match-history-score"><span class="">3</span> - <span class="score-highlight">4</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="odd"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">3</span> - <span class="score-highlight">5</span></td><td class="server"></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="even"><td class="match-history-vertical fr">&nbsp;</td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">4</span> - <span class="">5</span></td><td class="server"></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="odd"><td class="match-history-vertical fr">&nbsp;</td><td class="server"></td><td class="match-history-score"><span class="">4</span> - <span class="score-highlight">6</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl"><span class="ball-type-text matchball tb_r" title="Match point">MP</span>&nbsp;</td></tr><tr class="even"><td class="match-history-vertical fr">&nbsp;</td><td class="server"></td><td class="match-history-score lostserve"><span class="score-highlight">5</span> - <span class="">6</span></td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl lostserve"><span class="ball-type-text matchball tb_r" title="Match point">MP</span>LOST SERVE</td></tr><tr class="odd"><td class="match-history-vertical fr">&nbsp;</td><td class="server"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score"><span class="score-highlight">6</span> - <span class="">6</span></td><td class="server"></td><td class="match-history-vertical fl">&nbsp;</td></tr><tr class="even"><td class="match-history-vertical fr lostserve">LOST SERVE</td><td class="server lostserve"><div class="icon-box"><span class="icon tennis-serve" title="Serving player">&nbsp;</span></div></td><td class="match-history-score lostserve"><span class="">6</span> - <span class="score-highlight">7</span></td><td class="server"></td><td class="match-history-vertical fl"><span class="ball-type-text matchball tb_r" title="Match point">MP</span>&nbsp;</td></tr><tr class="odd"><td class="match-history-vertical fr">&nbsp;</td><td class="server"></td><td class="match-history-score"><span class="">6</span> - <span class="score-highlight">8</span></td><td class="server"><div class="icon-box"><span class="icon tennis-serve r_ico" title="Serving player">&nbsp;</span></div></td><td class="match-history-vertical fl">&nbsp;</td></tr></tbody></table><div class="spacer-block"></div></div><div id="secret_hash"></div></div>
+			
+			</div>			<div id="tab-match-commentary" style="display: none;">
+			<div id="commentary-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="commentary-content"></div>
+			
+			</div>			<div id="tab-match-commentary-new" style="display: none;">
+			<div id="commentary-new-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="commentary-new-content"></div>
+			
+			</div>			<div id="tab-match-live-table" style="display: none;">
+			<div id="live-table-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="live-table-content"></div>
+			
+			</div>			<div id="tab-match-standings" style="display: none;">
+			<div id="standings-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="standings-content"></div>
+			<div class="spacer-block">&nbsp;</div>
+			</div>			<div id="tab-match-draw" style="display: none;">
+			<div id="draw-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="draw-content"></div>
+			
+			</div>			<div id="tab-match-newsfeed" style="display: none;">
+			<div id="newsfeed-preload" class="preload-panel"><div class="preload"><span>Loading...</span></div></div>
+			<div id="newsfeed-content"></div>
+			
+			</div><hr class="cleaner"><div id="odds-main-wrapper" style="display:none">
+	<div class="odds-comparison-bookmark ifmenu-wrapper">
+		
+		<ul class="ifmenu">
+		</ul>
+	</div>
+	<div class="color-spacer odds-spacer"></div>
+
+	<div class="spacer-block">&nbsp;</div>
+</div>
+<div id="detail-bonus-odds-comparison-content" style="display: none;"></div>
+<script type="text/javascript">
+    var page_is_initialized = false;
+    cjs.Api.loader.get('cjs').call(function(_cjs) {
+        var serverTimestamp = 1601131845;
+        if (serverTimestamp)
+        {
+            _cjs.dic.get("util_date").setServerTimestamp(serverTimestamp);
+        }
+    });
+</script>
+</div>
+<div class="adsenvelope adstextpad banx-detail" id="lsadvert-zid-863" style="width: 300px; display: block;"><div style="height:250px"><div class="adscontent" id="lsadvert-detail"><iframe id="lsadvert-zid-863-iframe" name="banx-detail" frameborder="0" scrolling="no" style="width: 300px; height: 250px;" banner-id="0"></iframe></div><div class="ads__text ads__text--h">advertisement</div></div></div><div class="adsenvelope adstextpad banx-responsive_detail_fixed_bottom_mobile" id="lsadvert-zid-3591" style="width: 320px; display: none;"><div style="height:50px"><div class="adscontent" id="lsadvert-responsive_detail_fixed_bottom_mobile"><iframe data-body-class="mobile_ad" id="lsadvert-zid-3591-iframe" name="banx-responsive_detail_fixed_bottom_mobile" frameborder="0" scrolling="no" style="allowTransparency: true; visibility: hidden; width:320px; height:50px"></iframe></div><div class="ads__text ads__text--h">advertisement</div></div></div><div class="adsenvelope adstextpad banx-responsive_detail_fixed_bottom_tablet" id="lsadvert-zid-3593" style="width: 728px; display: none;"><div style="height:90px"><div class="adscontent" id="lsadvert-responsive_detail_fixed_bottom_tablet"><iframe data-body-class="tablet_ad" id="lsadvert-zid-3593-iframe" name="banx-responsive_detail_fixed_bottom_tablet" frameborder="0" scrolling="no" style="allowTransparency: true; visibility: hidden; width:728px; height:90px"></iframe></div><div class="ads__text ads__text--h">advertisement</div></div></div><div class="crttextpad"><div style="display:none"><div id="crt-1364435" class="ban_envelope" style="width: 300px; height: 250px; display: none;">
+    <script type="text/javascript">
+        if (typeof banners_backup_callbacks == "undefined") { var banners_backup_callbacks = []; }
+        cjs.Api.loader.get('cjs').callPriority(function(_cjs) {
+            var hasExistingZones = document.querySelectorAll('div[id^=lsadvert-detail]').length > 0;
+            if (hasExistingZones && typeof window.callAdblock == 'function')
+            {
+                window.callAdblock(1364435, '<a href="" target="_blank"><img alt="" src="" style="width: 300px; height: 250px;" /></a>', function(callback) { banners_backup_callbacks.push(callback); });
+            }
+        });
+    </script>
+</div><div class="ads__text ads__text--h">advertisement</div></div></div><div class="privacySettings optanon-show-settings"><a href="#" onclick="return false">Set privacy</a></div><div id="winclose">
+			<a href="#" onclick="window.close();">close window</a>
+		</div></div><sport name="tennis">
+<script>
+var dataLayer = dataLayer || []; // Google Tag Manager
+(function() {
+    var pageInfo = {"event":"pageinfo","sport":"tennis","type":"detail_page","id":"O8bBVnn7","stage":"hIybRiWS","tournament":"bPa1ZsRC","country":"US"};
+    if (pageInfo.constructor === Object && Object.entries(pageInfo).length !== 0) {
+        try {
+            pageInfo['theme'] = window.cjs.Api.darkModeLocal.isDarkModeEnabled() ? 'dark' : 'default';
+            pageInfo['theme-user'] = window.cjs.Api.darkModeLocal.isUserDefinedTheme();
+            pageInfo['theme-browser'] = window.cjs.Api.darkModeLocal.getPreferredDarkModeBasedOnBrowser() ? 'dark' : 'default';
+        } catch(e) { };
+        dataLayer.push(pageInfo);
+    }
+
+    try {
+    	cjs.Api.loader.get("myGames").call(function(mg) {
+            cjs.Api.loader.get("myTeams").call(function(mt) {
+                dataLayer.push({'event': 'userMy', 'games': mg.getCount(), 'teams': mt.getCount()});
+            });
+        });
+    } catch(e) { };
+
+}());
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-PWJ3NQ" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-PWJ3NQ');</script>
+<!-- End Google Tag Manager --></sport><div id="tooltip-1" class="tooltip"><span></span><div id="tooltip-1-lt" class="tooltip-lt"></div><div id="tooltip-1-rt" class="tooltip-rt"></div><div id="tooltip-1-lb" class="tooltip-lb"></div><div id="tooltip-1-cb" class="tooltip-cb"></div><div id="tooltip-1-rb" class="tooltip-rb"></div><div id="tooltip-1-ct" class="tooltip-ct"></div></div></div>
+                <script type="text/javascript">
+                    // <![CDATA[
+                    		var banners;
+		cjs.Api.loader.get('cjs').call(function(_cjs) {
+			
+                    banners = new BannerHandler(
+                        [863,3591,3593],
+                        [],
+                        window.bannersAdsServers || ["content.livesportmedia.eu"],
+                        "ads2.livesportmedia.eu",
+                        [],
+                        "The background image is an advertisement.",
+                        clientStorage,
+                        {"3591":{"height":null,"second_request":false,"zones":[],"offset":false,"breakpoint":[320,727]},"3593":{"height":null,"second_request":false,"zones":[],"offset":false,"breakpoint":[728,999]}},
+                        true,
+                        [860],
+                        {"3592":45,"3591":45,"3590":45,"3593":45},
+                    );
+
+                                
+            banners.addSetBackgroundCallback(function(zoneId, hasOffset){
+                try {
+                    var content = banners.zones[zoneId]['content'];
+                    if (content.indexOf('<' + '!-- fixed -->') != -1) {
+                        var envelope = document.getElementById(banners.idPrefix + zoneId);
+                        if (envelope && envelope.parentElement) {
+                            envelope.parentElement.style.position = 'fixed';
+                        }
+                    }
+                } catch(pass) { }
+                if (!hasOffset)
+                {
+                    document.body.classList.remove('background-add-off');
+                    document.body.classList.add('background-add-on');
+                }
+
+                // Hide social buttons (Warning: don't remove buttongs from DOM - it is dangerous operations and breaks Firefox)
+                var socialButton = document.getElementById("social-button");
+                if(socialButton)
+                {
+                    socialButton.style.display = "none";
+                }
+            });
+
+
+        
+                    document.lsadvert_display = function() {
+                        banners.display();
+                                        }
+                    
+		});
+                    // ]]>
+                </script>
+                <div id="box-over-content-detail" class="boxOverContent--detail"><script id="boxContentJs" type="text/javascript">cjs.Api.loader.get("cjs").call(function(_cjs) { _cjs.Api.loader.get("boxContentManager").call(function(boxContentManager) { boxContentManager.setSupportedGeoIPGroups([]); boxContentManager.showPlaceholders(); }); });</script></div><div style="position:fixed; top:0; left:0; overflow:hidden;"><input style="position:absolute; left:-300px;" type="text" value="" id="focus_retriever" readonly="true"></div><div id="tooltip-ball" class="tooltip" style="display: none;"><span></span><div id="tooltip-ball-lt" class="tooltip-lt"></div><div id="tooltip-ball-rt" class="tooltip-rt"></div><div id="tooltip-ball-lb" class="tooltip-lb"></div><div id="tooltip-ball-cb" class="tooltip-cb"></div><div id="tooltip-ball-rb" class="tooltip-rb"></div><div id="tooltip-ball-ct" class="tooltip-ct"></div></div><script type="text/javascript" id="">var cookieName="fonce_current_session",d=new Date;d.setTime(d.getTime()+6E4*google_tag_manager["GTM-PWJ3NQ"].macro(4));var expires=d.toGMTString(),conversionOccurred=google_tag_manager["GTM-PWJ3NQ"].macro(5);conversionOccurred=void 0===conversionOccurred?0:conversionOccurred;document.cookie=cookieName+"\x3d"+conversionOccurred+"; expires\x3d"+expires+";path\x3d/;domain\x3d"+google_tag_manager["GTM-PWJ3NQ"].macro(6)+";secure;samesite\x3dnone";</script><script type="text/javascript" id="">var cookieName="fonce_current_day",todayCookie=google_tag_manager["GTM-PWJ3NQ"].macro(7),conversionOccurred,conversionOccurredLastTime;if(void 0===todayCookie)conversionOccurred=0,conversionOccurredLastTime=google_tag_manager["GTM-PWJ3NQ"].macro(8);else{var todayCookieParts=todayCookie.split(",");conversionOccurred=todayCookieParts[0];conversionOccurredLastTime=todayCookieParts[1]}var conversionOccurredCookieValue;
+conversionOccurredCookieValue="2020-09-26"==conversionOccurredLastTime?conversionOccurred+","+conversionOccurredLastTime:"0,"+google_tag_manager["GTM-PWJ3NQ"].macro(9);document.cookie=cookieName+"\x3d"+conversionOccurredCookieValue+";path\x3d/;domain\x3d"+google_tag_manager["GTM-PWJ3NQ"].macro(10)+";secure;samesite\x3dnone";</script><script type="text/javascript" id="">var cookieName="fonce_current_user",d=new Date;d.setTime(d.getTime()+144E6*google_tag_manager["GTM-PWJ3NQ"].macro(11));var expires=d.toGMTString(),conversionOccurred=google_tag_manager["GTM-PWJ3NQ"].macro(12);conversionOccurred=void 0===conversionOccurred?0:conversionOccurred;document.cookie=cookieName+"\x3d"+conversionOccurred+"; expires\x3d"+expires+";path\x3d/;domain\x3d"+google_tag_manager["GTM-PWJ3NQ"].macro(13)+";secure;samesite\x3dnone";console.log("*** cookie '"+cookieName+"' set (all pages): "+document.cookie);</script><script type="text/javascript" id="">var cookieName="fonce_current_session",conversionOccurred=1,d=new Date;d.setTime(d.getTime()+6E4*google_tag_manager["GTM-PWJ3NQ"].macro(14));var expires=d.toGMTString();document.cookie=cookieName+"\x3d"+conversionOccurred+"; expires\x3d"+expires+";path\x3d/;domain\x3d"+google_tag_manager["GTM-PWJ3NQ"].macro(15)+";secure;samesite\x3dnone";</script><script type="text/javascript" id="">var cookieName="fonce_current_day",conversionOccurred=1;document.cookie=cookieName+"\x3d"+conversionOccurred+","+google_tag_manager["GTM-PWJ3NQ"].macro(16)+"; expires\x3d"+expires+";path\x3d/;domain\x3d"+google_tag_manager["GTM-PWJ3NQ"].macro(17)+";secure;samesite\x3dnone";</script><script type="text/javascript" id="">var cookieName="fonce_current_user",conversionOccurred=1,d=new Date;d.setTime(d.getTime()+144E6*google_tag_manager["GTM-PWJ3NQ"].macro(18));var expires=d.toGMTString();document.cookie=cookieName+"\x3d"+conversionOccurred+"; expires\x3d"+expires+";path\x3d/;domain\x3d"+google_tag_manager["GTM-PWJ3NQ"].macro(19)+";secure;samesite\x3dnone";</script><script type="text/javascript" id="">var random=Math.random();if(random<google_tag_manager["GTM-PWJ3NQ"].macro(20)/100){var cookieName="fonce_sampled_user",d=new Date;d.setTime(d.getTime()+144E6*google_tag_manager["GTM-PWJ3NQ"].macro(21));var expires=d.toGMTString();document.cookie=cookieName+"\x3d1; expires\x3d"+expires+";path\x3d/;domain\x3d"+google_tag_manager["GTM-PWJ3NQ"].macro(22)+";secure;samesite\x3dnone";console.log("User sampled")};</script>
+<iframe name="__tcfapiLocator" title="CMP Locator" style="display: none;"></iframe></body></html>
