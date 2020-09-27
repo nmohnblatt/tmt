@@ -31,10 +31,11 @@ def points_until_victory(player, rules, set_, game, set_tally, game_tally, point
     ## 2) Find the number of full games needed to win the current set
     games_objective = max(rules['GAMES_IN_SET'], game_tally[opponent]+2) # default value
    
+    
     if set_.Number == sets_objective*2-1 and rules['LAST_SET_TB'] == False:
-        # If this set does not allow tiebreaks, pass this step
+        # If this set does not allow tiebreaks, mark tiebreak objective as 0
         # (i.e. keep the default value for 'games_objective')
-        pass
+        tb_objective = 0
     else:
         # Else (if the set allows tiebreaks), check whether a tiebreak is needed
         if game_tally[opponent] == rules['GAMES_IN_SET'] and not game.TB:
