@@ -111,7 +111,7 @@ def momentum_animation(match, p1_momentum, p2_momentum, EoS, save_video=True):
         main_ax.axvline(EoS[j-1], linestyle='--', linewidth = 0.3 ,color = 'lightgray')
         main_ax.set_xticks(EoS[:j])
         main_ax.set_xticklabels(xlabels[:j])
-        if i == EoS[-1]:
+        if i >= EoS[-1]:
             main_ax.set_xticks(EoS)
             main_ax.set_xticklabels(xlabels)
         main_ax.plot(x[:i], p1_momentum[:i], color='tab:blue', label=match.Players[0].Last)
@@ -123,7 +123,7 @@ def momentum_animation(match, p1_momentum, p2_momentum, EoS, save_video=True):
         fig.tight_layout()
         return main_ax
         
-    ani = animation.FuncAnimation(fig, animate, frames=len(x)+1)
+    ani = animation.FuncAnimation(fig, animate, frames=len(x)+int(len(x)/5))
     
     
 
@@ -132,7 +132,7 @@ def momentum_animation(match, p1_momentum, p2_momentum, EoS, save_video=True):
         Writer = animation.writers['ffmpeg']
         writer = Writer(fps=20, metadata=dict(artist='TennisMomentumTracker'), bitrate=1800)
         print('Saving animation as {}\nPlease wait...'.format(outputfilename))
-        ani.save(outputfilename, writer=writer)
+        ani.save('outputs/'+outputfilename, writer=writer)
         print('Done!')
     else:
         plt.show()
