@@ -2,6 +2,8 @@
 
 An application that produces visual representations of the switches in momentum during a tennis match. See `ZverevThiem2020-09-13.mp4` for an example output based on the [2020 US Open's men's final](https://www.scoreboard.com/game/O8bBVnn7/) and `OsakaAzarenka2020-09-12.mp4` based on the [2020 US Open's ladies final](https://www.scoreboard.com/game/CSHYm4GH).
 
+Follow our [Twitter account](https://twitter.com/TennisMomentum)
+
 ## Running the application 
 After a game is over, find the results on [scoreboard.com](https://www.scoreboard.com) and copy the game URL (e.g. `https://www.scoreboard.com/game/O8bBVnn7`). When running the script, pass the URL as argument:
 ``$ python tmt.py https://www.scoreboard.com/game/O8bBVnn7 ``
